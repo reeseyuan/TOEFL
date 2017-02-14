@@ -11,18 +11,18 @@
 
 > The fact that some societies domesticated animals and plants, discovered the use of metal tools, became literate, and developed a state should not make us forget that others developed pastoralism or horticulture (vegetable gardening) but remained illiterate and at low levels of productivity; a few entered the modern period as hunting and gathering societies. It is anthropologically important to inquire into the conditions that made some societies adopt agriculture while others remained hunter-gatherers or horticulturalists. However, it should be kept in mind that many societies that knew of agriculture more or less consciously avoided it. Whether Mithen's explanation is satisfactory is open to contention, and some authors have recently emphasized the importance of other factors.
 
+>
 
->> Climatic changes at the end of the glacial period 13,000 years ago have been proposed to account for the emergence of farming. **The temperature increased dramatically in a short period of time (years rather than centuries), allowing for a growth of the hunting-gathering population due to the abundance of resources.** There were, however, fluctuations in the climatic conditions, with the consequences that wet conditions were followed by dry ones, so that the availability of plants and animals oscillated brusquely.
+Climatic changes at the end of the glacial period 13,000 years ago have been proposed to account for the emergence of farming. **The temperature increased dramatically in a short period of time (years rather than centuries), allowing for a growth of the hunting-gathering population due to the abundance of resources.** There were, however, fluctuations in the climatic conditions, with the consequences that wet conditions were followed by dry ones, so that the availability of plants and animals oscillated brusquely.
 ### Q5:Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
 1. The resources needed by the growing hunting and gathering population increased rapidly once temperatures rose.
 2. Dramatic temperature increases and the simultaneous growth of the hunting and gathering population led to the need for more resources.
 3. Higher temperatures led to the existence of increased resources, thus enabling the hunting and gathering population to grow.
 4. The dramatic temperature increase occurred during the few years when abundant resources allowed the hunting and gathering population to grow.
->
->
 
 my answer: d
 
+my method:
 > a short period time----the few years
 
 > hunting-gathering popualtion due to the aboundance of resources----aboundant resources allowed the hunting and gathering population to grow
