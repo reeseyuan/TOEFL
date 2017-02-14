@@ -22,6 +22,8 @@ Climatic changes at the end of the glacial period 13,000 years ago have been pro
 
 my answer: 4
 
+right answer: 3
+
 my method:
 > a short period time----the few years
 
