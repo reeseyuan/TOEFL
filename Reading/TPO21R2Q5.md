@@ -19,3 +19,10 @@
 2. Dramatic temperature increases and the simultaneous growth of the hunting and gathering population led to the need for more resources.
 3. Higher temperatures led to the existence of increased resources, thus enabling the hunting and gathering population to grow.
 4. The dramatic temperature increase occurred during the few years when abundant resources allowed the hunting and gathering population to grow.
+>
+>
+
+my answer: 4
+method: 
+> a short period time----the few years; 
+> hunting-gathering popualtion due to the aboundance of resources----aboundant resources allowed the hunting and gathering population to grow
