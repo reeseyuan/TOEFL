@@ -15,7 +15,7 @@
 >> Climatic changes at the end of the glacial period 13,000 years ago have been proposed to account for the emergence of farming. The temperature increased dramatically in a short period of time (years rather than centuries), allowing for a growth of the hunting-gathering population due to the abundance of resources. There were, however, fluctuations in the climatic conditions, with the consequences that wet conditions were followed by dry ones, so that the availability of plants and animals oscillated brusquely.
 ## Q5:Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
 ### The temperature increased dramatically in a short period of time (years rather than centuries), allowing for a growth of the hunting-gathering population due to the abundance of resources.
-A. The resources needed by the growing hunting and gathering population increased rapidly once temperatures rose.
-B. Dramatic temperature increases and the simultaneous growth of the hunting and gathering population led to the need for more resources.
-C. Higher temperatures led to the existence of increased resources, thus enabling the hunting and gathering population to grow.
-D. The dramatic temperature increase occurred during the few years when abundant resources allowed the hunting and gathering population to grow.
+1. The resources needed by the growing hunting and gathering population increased rapidly once temperatures rose.
+2. Dramatic temperature increases and the simultaneous growth of the hunting and gathering population led to the need for more resources.
+3. Higher temperatures led to the existence of increased resources, thus enabling the hunting and gathering population to grow.
+4. The dramatic temperature increase occurred during the few years when abundant resources allowed the hunting and gathering population to grow.
