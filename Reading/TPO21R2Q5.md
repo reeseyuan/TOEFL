@@ -23,7 +23,7 @@ my answer: 4
 
 right answer: 3
 
-###Self method:
+###My analysis:
 
 a short period time----the few years
 
