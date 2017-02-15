@@ -28,3 +28,20 @@ Climatic changes at the end of the glacial period 13,000 years ago have been pro
 >> a short period time----the few years
 
 >> hunting-gathering popualtion due to the aboundance of resources----aboundant resources allowed the hunting and gathering population to grow
+>
+
+##Explaination:
+* A = temperature increase;
+* B = population growth;
+* C = abundance of resources.
+
+The original sentance can visualize by this:
+= A allowing B (which is) due to C
+= A -> (B <- C)
+= A -> C -> B
+
+Options can visualize by this:
+> 1. C <- A(B is actually an adjective of C in this sentence; B did not happen)
+> 2. (A while B) -> C(This is preposterous. While means A and B happened at the same time.)
+> 3. A -> C -> B
+> 4. (A while C) -> B(Atually is A -> C)
