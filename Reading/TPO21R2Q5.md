@@ -41,7 +41,10 @@ The original sentance can visualize by this:
 = A -> C -> B
 
 Options can visualize by this:
-> 1. C <- A(B is actually an adjective of C in this sentence; B did not happen)
-> 2. (A while B) -> C(This is preposterous. While means A and B happened at the same time.)
-> 3. A -> C -> B
-> 4. (A while C) -> B(Atually is A -> C)
+1. C <- A(B is actually an adjective of C in this sentence; B did not happen)
+
+2. (A while B) -> C(This is preposterous. While means A and B happened at the same time.)
+
+3. A -> C -> B
+
+4. (A while C) -> B(Atually is A -> C)
