@@ -21,9 +21,10 @@ Climatic changes at the end of the glacial period 13,000 years ago have been pro
 4. The dramatic temperature increase occurred during the few years when abundant resources allowed the hunting and gathering population to grow.
 
 my answer: 4
+
 right answer: 3
 
-my method:
+####Self method:
 
 a short period time----the few years
 
