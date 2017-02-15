@@ -35,8 +35,11 @@ hunting-gathering popualtion due to the aboundance of resources----aboundant res
 * C = abundance of resources.
 
 The original sentance can visualize by this:
+
 = A allowing B (which is) due to C
+
 = A -> (B <- C)
+
 = A -> C -> B
 
 Options can visualize by this:
